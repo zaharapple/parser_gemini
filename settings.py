@@ -89,5 +89,5 @@ TITLES_CSV = [
     'Personal_Notes', 'Product_on_Website', 'Marking_Code_(GTIN)', 'Device_Number_(MPN)',
     'Product_Identifier', 'Unique_Identifier', 'Subdivision_Identifier', 'Group_Identifier',
     'Variant_Group_ID', 'Product_Location', 'Characteristic_Name', 'Characteristic_Unit_of_Measurement',
-    'Characteristic_Value'
+    'Characteristic_Value',
 ]
