@@ -18,7 +18,6 @@ To run this project, you need to install the following Python packages:
 - `beautifulsoup4`
 - `tqdm`
 
-You can install these packages using pip. To create a `requirements.txt` file, run:
 
 ```bash
-pip freeze > requirements.txt
+pip install -r requirements.txt
